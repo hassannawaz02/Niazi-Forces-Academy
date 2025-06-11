@@ -52,18 +52,29 @@ const Footer = () => {
               <div>
                 <h2 className="text-lg font-bold text-teal-300">Contact Us</h2>
                 <ul className="flex items-start mt-2">
-  <FaMailBulk className="text-teal-300 text-xl md:text-2xl sm:text-3xl transition-all" />
-  <p className="ml-3 text-sm md:text-base text-gray-400 hover:underline break-all">
-    arkn100@hotmail.com
-  </p>
-</ul>
-<ul className="flex items-start mt-2">
-  <IoCall className="text-teal-300 text-xl md:text-2xl sm:text-3xl transition-all" />
-  <p className="ml-3 text-sm md:text-base text-gray-400 hover:underline">
-    0314-4220065
-  </p>
-</ul>
-
+                  <IoCall className="text-teal-300 text-xl md:text-2xl sm:text-3xl transition-all" />
+                  <p className="ml-3 text-sm md:text-base text-gray-400 hover:underline">
+                    0314-4220065
+                  </p>
+                </ul>
+                <ul className="flex items-start mt-2">
+                  <FaMailBulk className="text-teal-300 text-xl md:text-2xl sm:text-3xl transition-all" />
+                  <p className="ml-3 text-sm md:text-base text-gray-400 hover:underline break-all">
+                    arkn100@hotmail.com
+                  </p>
+                </ul>
+                <ul className="flex items-start mt-2">
+                  <IoCall className="text-teal-300 text-xl md:text-2xl sm:text-3xl transition-all" />
+                  <p className="ml-3 text-sm md:text-base text-gray-400 hover:underline">
+                    03346023933
+                  </p>
+                </ul>
+                <ul className="flex items-start mt-2">
+                  <IoCall className="text-teal-300 text-xl md:text-2xl sm:text-3xl transition-all" />
+                  <p className="ml-3 text-sm md:text-base text-gray-400 hover:underline">
+                    03087943442
+                  </p>
+                </ul>
               </div>
               <div>
                 <h2 className="text-lg font-bold text-teal-300">Follow Us</h2>
