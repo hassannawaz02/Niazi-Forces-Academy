@@ -42,12 +42,8 @@ export default function About() {
                 desc: "Strategic preparation for written, physical, and interview rounds.",
               },
               {
-                title: "Modern Classrooms",
-                desc: "Smart learning with digital boards and updated resources.",
-              },
-              {
                 title: "Physical Training Discipline",
-                desc: "Daily drills and fitness sessions under strict routines.",
+                desc: "Fitness sessions under strict routines.",
               },
               {
                 title: "Mock Interviews & Grooming",
